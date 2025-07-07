@@ -76,7 +76,7 @@ A neural network approximates Q-values, allowing generalization in large or cont
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Leah0658/Advanced-Smart-Courier-Q-Learning---DQN-in-Grid-World.git
+   git clone https://github.com/Leah0658/Advanced-Smart-Courier-Q-Learning---DQN-with-GUI.git.git
    cd smart-courier-rl
 
 
